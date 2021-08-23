@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with C and JavaScript
 - 📫 How to reach me: andrefattore@outlook.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I'm CRAZY about RPG games!
+- ⚡ Fun fact: I'm realy into RPG games!
 
