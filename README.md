@@ -1,14 +1,13 @@
-### Hi there 👋
+🖖 Hello there, welcome to my profile! 🖖
 
 <!--
-**L0boDoMar/L0boDoMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**L0boDoMar/L0boDoMar** is a ✨ _special_ ✨😄⚡ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on game development
-- 🤔 I’m looking for help with C and JavaScript
-- 📫 How to reach me: andrefattore@outlook.com
-- 😄 Pronouns: HE
-- ⚡ Fun fact: I love every kind of games! Add me on Steam, my friend code is 225070007. Let's play \m/
+My name is André, but you can call me L0bo. I'm a computer science student. I'm currently learning C, C# and JavaScript. Feel free to visit all my repositories.
+
+🧑‍💻 Link to my profile on LinkedIn: https://www.linkedin.com/in/andrefattore/
+📫 Send me an e-mail: andrefattore33@gmail.com
+👾 Add me on Steam, my friend code is 225070007. Let's play \m/
 
