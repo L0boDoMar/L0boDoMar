@@ -34,20 +34,5 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 
 👾 Me adicione na Steam, meu código de amigo é 225070007. Let's play \m/
 
-
-
-- uses: Platane/snk@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
-
+![Snake animation](https://github.com/L0boDoMar/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
 
