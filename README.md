@@ -34,5 +34,5 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 
 👾 Me adicione na Steam, meu código de amigo é 225070007. Let's play \m/
 
-![Snake animation](https://github.com/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/L0boDoMar/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
 
