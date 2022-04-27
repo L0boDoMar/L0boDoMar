@@ -44,7 +44,9 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 <img align="center" alt="git Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+##
 
+![Snake animation](https://github.com/L0boDoMar/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <div style="display: inline_block" align="center">
