@@ -46,7 +46,7 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 
 ##
 
-
+![Snake animation](https://github.com/L0boDoMar/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <div style="display: inline_block" align="center">
