@@ -49,13 +49,7 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 ![Snake animation](https://github.com/L0boDoMar/L0boDoMar/blob/output/github-contribution-grid-snake.svg)
 
 ##
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/L0boDoMar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0boDoMar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0boDoMar&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-##
+
   
 
 
