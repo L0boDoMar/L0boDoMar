@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-My name is André, but you can call me L0bo. I'm a computer science student. I'm currently learning C, C# and JavaScript. Feel free to visit all my repositories.
+My name is André! I have a degree in Computer Science. I'm currently learning .Net and Angular. Feel free to visit all my repositories.
 
 🧑‍💻 Link to my LinkedIn profile: https://www.linkedin.com/in/andrefattore/ 
 
@@ -25,7 +25,7 @@ My name is André, but you can call me L0bo. I'm a computer science student. I'm
 
 Here are some ideas to get you started:-->
 
-Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciências da Computação e, atualmente, estou estudando as linguagens C, C# e JavaScripit. Fique a vontade para visitar meus repositórios.
+Meu nome é André! Sou formado em Ciências da Computação e, atualmente, estou estudando .Net e Angular. Fique a vontade para visitar meus repositórios.
 
 🧑‍💻 Link para meu perfil no LinkedIn: https://www.linkedin.com/in/andrefattore/ 
 
@@ -35,12 +35,13 @@ Meu nome é André, mas você pode me chamar de L0bo. Eu faço faculdade de Ciê
 
 ##
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="C Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="C# Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" />
+<img align="center" alt=".Net Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" alt="HTML5 Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="CSS3 Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="JAVA Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Angular Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" />
 <img align="center" alt="JAVASCRIPT Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="PHYTON Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Python Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="git Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
